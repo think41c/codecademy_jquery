@@ -1,3 +1,8 @@
+// $(document).ready(function() {
+//     $("#green").fadeOut(1000);
+// });
+
+///Targeting different Selector now: 
 $(document).ready(function() {
-    $("#green").fadeOut(1000);
+    $("#notready").fadeOut(1000);
 });
