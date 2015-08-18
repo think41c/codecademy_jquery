@@ -1,5 +1,1 @@
-$("div").ready(slidedown("slow"){
-    
-
-
-});
+$(document).ready();
