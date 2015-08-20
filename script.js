@@ -1,5 +1,7 @@
+// Write your jQuery code on line 3!
 $(document).ready(function() {
-    $('div').click(function() {
-        $('div').fadeOut('slow');
-    });
+    
+    $target.fadeOut('fast') = :last-child(4)
+    
+    ;
 });
