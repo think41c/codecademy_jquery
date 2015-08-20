@@ -1,2 +1,5 @@
-$(document).ready();
-    $('selector').hide();
+$(document).ready(function() {
+    $('div').click(function() {
+        $('div').fadeOut('slow');
+    });
+});
